@@ -39,7 +39,7 @@ The implementation introduces three key components:
 
 ![Optimized Context Management Architecture](Context_ref.png)
 
-The diagram illustrates how our optimized approach improves upon the traditional LangGraph state management:
+The diagram illustrates how my optimized approach improves upon the traditional LangGraph state management:
 
 - Instead of passing full context windows (2M tokens) between nodes, only lightweight reference IDs are passed
 - All nodes connect to a shared Context Reference Store that maintains a single copy of each unique context
