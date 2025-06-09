@@ -37,7 +37,7 @@ The implementation introduces three key components:
 
 ### Architecture Diagram
 
-![Optimized Context Management Architecture](Screenshot%202025-06-08%20at%209.29.41%20PM.png)
+![Optimized Context Management Architecture](Context_ref.png)
 
 The diagram illustrates how our optimized approach improves upon the traditional LangGraph state management:
 
