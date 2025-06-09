@@ -1,8 +1,11 @@
 # Context Reference Store: Efficient Large Context Window Management for ADK
 
 Repository Link: https://github.com/google/adk-python
+
 Issue : #1246
+
 PR: #1247
+
 Status: In Review
 
 ## Executive Summary

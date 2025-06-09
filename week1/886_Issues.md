@@ -1,8 +1,11 @@
 # Supporting `list[pydantic.BaseModel]` in `response.parsed` Type Annotation
 
 Repository Link: https://github.com/googleapis/python-genai
+
 Issue : #886
+
 PR: #906
+
 Status: In Review
 
 

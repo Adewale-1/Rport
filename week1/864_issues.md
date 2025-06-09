@@ -1,10 +1,12 @@
 # Video Understanding Not Working with File API, but Works with YouTube Links
 
 Repository Link: https://github.com/googleapis/python-genai
-Issue : #864
-PR: #916
-Status: In Review
 
+Issue : #864
+
+PR: #916
+
+Status: In Review
 
 ## Issue Summary
 
